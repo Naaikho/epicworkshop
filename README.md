@@ -1,9 +1,9 @@
 # Epic Workshop
 
 
-| Version | Release | Link |
-|-|-|-|
-| ![Version](https://img.shields.io/badge/Version-0.0.6-purple.svg) | ![Release](https://img.shields.io/badge/Release-07.01.2021-white.svg) | [![Download](https://img.shields.io/badge/Download-blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/0.0.6.zip) |
+| Version | Release | Link | Compiled version |
+|-|-|-|-|
+| ![Version](https://img.shields.io/badge/Version-0.0.6-purple.svg) | ![Release](https://img.shields.io/badge/Release-07.01.2021-white.svg) | [![Download](https://img.shields.io/badge/Download-blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/0.0.6.zip) | ![Compiled](https://img.shields.io/badge/Compiled-0.0.6-red.svg) |
 
 I finally publish the source version of EpicWorkshop, I edited it a bit so that it is understandable and nobody gets too lost reading my code.
 I didn't necessarily optimize Epic Workshop, that's why a lot of things are repeated often and some lines can be very weird.
