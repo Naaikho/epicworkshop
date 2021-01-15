@@ -1,0 +1,16 @@
+[Mm]ap/
+[Bb]uild/
+[Rr]esources_maps/
+
+paths
+setup.py
+test.py
+*.exe
+*.json
+*.upk
+*.udk
+*.ini
+tmp
+*setup*.py
+ew_console.py
+__pycache__
