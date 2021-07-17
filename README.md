@@ -10,9 +10,6 @@ I didn't necessarily optimize Epic Workshop, that's why a lot of things are repe
 I'm a newbie developer in all of this, I just have the knowledge and the solutions but not necessarily experience in optimization, so please be indulgent with my program,
 thank you!
 
-# Disclaimer
-I know the code in EpicWorkshop is not optimized at all and the English of my comments is not perfect, so don't blame me for that.
-
 # Image:
 
 ![alt text](https://user-images.githubusercontent.com/62458713/103048507-1d59db00-458f-11eb-86d7-8c278df25c82.png)
