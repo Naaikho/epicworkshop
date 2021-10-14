@@ -26,7 +26,7 @@ enjoy!
 # Help
 
 
-### [How to install](https://github.com/Naaikho/epicworkshop-compiled/blob/main/How%20to%20install.md)
+### [How to install](https://github.com/Naaikho/epicworkshop/blob/master/How%20to%20install.md)
 
 
 
